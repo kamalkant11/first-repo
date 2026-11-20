@@ -1,4 +1,4 @@
-Hello This is my first vim experience.
-This is the second line of the file
-This is the third line of the file
-This is the fourth line of the file
+Hello Here's my first vim experience.
+This is the second line of this file.
+This is the third line of this file.
+This is the fourth line of this file.
