@@ -4,4 +4,4 @@ In this file i tried to create and resolve a merge conflct.
 
 This is line written by the developer 1.
 
-
+here the changes of dev 1
