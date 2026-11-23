@@ -1,0 +1,4 @@
+Welcome to Git
+This is the main branch
+In this file i tried to create and resolve a merge conflct
+
